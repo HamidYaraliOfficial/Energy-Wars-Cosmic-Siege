@@ -1,5 +1,3 @@
-# README (1)
-
 # 🚀 Energy Wars / Cosmic Siege
 
 A futuristic 2D artillery strategy game built with Python and PyQt6. Command advanced factions, launch powerful missiles, adapt to environmental effects, and destroy enemy bases across dynamic battlefields.
